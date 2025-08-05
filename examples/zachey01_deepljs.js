@@ -1,3 +1,7 @@
+// https://github.com/zachey01/deepljs
+// npm install free-deepl
+// const deepljs = require("free-deepl");
+
 const deepljs = require("free-deepl");
 
 (async () => {

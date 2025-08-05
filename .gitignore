@@ -2,6 +2,7 @@
 .crush/
 # examples/
 test/
+rules/
 
 # IDE files
 .vscode/
