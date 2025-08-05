@@ -1,0 +1,14 @@
+# Crush directory
+.crush/
+# examples/
+test/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db.crush/
